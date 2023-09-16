@@ -33,7 +33,7 @@
         from: 'infomicroplastwovens@gmail.com',
         to: `tanishqbakka1@gmail.com`,
         subject: `${subject}`,
-        text: `${name} , ${email} , ${phone}, \n ${subject} \n : ${message}`          // plaintext body
+        text: `${name} , ${email} , ${phone}, \n ${subject} \n ${message}`          // plaintext body
     };
 
     try {
