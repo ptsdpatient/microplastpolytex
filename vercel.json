@@ -3,5 +3,5 @@
     "version": 2,
     "name": "native-server",
     "builds": [{ "src": "server.jads", "use": "@vercel/node" }],
-    "routes": [{ "src": "/(.*)", "dest": "server.js" }]
+    "routes": [{ "src": "/(.*)", "dest": "./server.js" }]
   }
