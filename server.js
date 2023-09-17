@@ -31,7 +31,7 @@
     // Email data
     const mailOptions = {
         from: 'infomicroplastwovens@gmail.com',
-        to: `tanishqbakka1@gmail.com`,
+        to: `info@microplastwovens.com`,
         subject: `${subject}`,
         text: `${name} , ${email} , ${phone}, \n ${subject} \n ${message}`          // plaintext body
     };
